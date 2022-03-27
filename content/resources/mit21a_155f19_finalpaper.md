@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4652af27-5984-7d1e-b721-7843981198d0
 resourcetype: Document
 title: '21A.155_F19 Assignments_Final Paper: Cracking Open Fortune Cookies'
 uid: 2543015a-2b0a-49ac-6f27-40840fda7cfc
