@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -43,6 +44,6 @@ The final paper is due during the final class and is worth 35% of the final grad
 
 ### Student Example
 
-[“Cracking Open Fortune Cookies: A Window into the American Consumer” (PDF)]({{< baseurl >}}/resources/mit21a_155f19_finalpaper) 
+{{% resource_link 2543015a-2b0a-49ac-6f27-40840fda7cfc "“Cracking Open Fortune Cookies: A Window into the American Consumer” (PDF)" %}} 
 
 Note: This example appears courtesy of an MIT student and is anonymous by request.
