@@ -5,6 +5,7 @@ file: /courses/21a-155-food-culture-politics-fall-2019/2543015a2b0a49ac6f2740840
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
