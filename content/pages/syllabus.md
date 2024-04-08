@@ -101,6 +101,6 @@ For more detailed information, see the {{% resource_link 4652af27-5984-7d1e-b721
 Required Text
 -------------
 
-Gewertz, Deborah, and Frederick Errington. _Cheap Meat: Flap Food Nations in the Pacific Islands_. University of California Press, 2010. ISBN: 9780520260931. \[Preview with [Google Books](https://books.google.com/books?id=3r7I0Vv943QC&pg=PAfrontcover#v=onepage&q&f=false)\]
+Gewertz, Deborah, and Frederick Errington. _Cheap Meat: Flap Food Nations in the Pacific Islands_. University of California Press, 2010. ISBN: 9780520260931. \[Preview with {{% resource_link "7b49843c-9360-43f0-a893-a55729eac5e0" "Google Books" %}}\]
 
 All other readings can be found in the {{% resource_link 03c52153-1002-0540-c903-85e14efceda3 "Readings" %}} table.
