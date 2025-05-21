@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21a-155-food-culture-politics-fall-2019/2543015a2b0a49ac6f2740840fda7cfc_MIT21A_155F19_FinalPaper.pdf
+file: /courses/21a-155-food-culture-politics-fall-2019/2543015a2b0a49ac6f2740840fda7cfc_MIT21A_155F19_FinalPaper.pdf
 file_size: 921619
 file_type: application/pdf
 learning_resource_types:
