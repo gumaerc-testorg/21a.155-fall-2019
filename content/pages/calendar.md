@@ -41,7 +41,7 @@ Waste amidst plenty
 
 *In-class viewing and discussion:*
 
-[*BUFFET: All You Can Eat Las Vegas*](https://www.natashadowschull.org/film/). Directed by Natasha Schüll. Color, 30 min. 2006.
+{{% resource_link "27627ede-3725-45cf-9a70-5613adf6758e" "*BUFFET: All You Can Eat Las Vegas*" %}}. Directed by Natasha Schüll. Color, 30 min. 2006.
 
 *In-class discussion:*
 
@@ -75,7 +75,7 @@ Good food is culturally *authentic*
 
 *In-class viewing and discussion:*
 
-Excerpt from [*The Meaning of Food*](https://www.pbs.org/food/shows/the-meaning-of-food/)*.* Series directed by Maria Gargiulo, Vivian Kleiman, Kris Kristensen, and Karin Williams. Color, 180 min. 2004.
+Excerpt from {{% resource_link "3b2a6e9d-83be-4d16-bdda-818f9938c3ed" "*The Meaning of Food*" %}}*.* Series directed by Maria Gargiulo, Vivian Kleiman, Kris Kristensen, and Karin Williams. Color, 180 min. 2004.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -117,7 +117,7 @@ Good food is *symbolically pure*
 12
 {{< tdclose >}}{{< tdopen >}}
 
-In-class writing workshop with Karen Pepper, lecturer, [MIT Comparative Media Studies / Writing](https://cmsw.mit.edu/)
+In-class writing workshop with Karen Pepper, lecturer, {{% resource_link "49904b8e-46cd-406a-aca8-ac3a121c0d1b" "MIT Comparative Media Studies / Writing" %}}
 
 *Brainstorming / free-write for final papers, tips for doing library research, follow-up on deciphering exercise*
 
@@ -133,9 +133,9 @@ Good food *reminds* you of your mother (or homeland or childhood)
 
 *In-class viewing and discussion:*
 
-Excerpt from [*Ratatouille*](https://www.imdb.com/title/tt0382932/?ref_=nv_sr_srsg_0). Directed by Brad Bird and Jan Pinkava. Color, 111 min. 2007.
+Excerpt from {{% resource_link "f273623b-752b-4561-8c97-9809cc5abe2f" "*Ratatouille*" %}}. Directed by Brad Bird and Jan Pinkava. Color, 111 min. 2007.
 
-Excerpt from [*The Meaning of Food*](https://www.pbs.org/food/shows/the-meaning-of-food/)*.* Series directed by Maria Gargiulo, Vivian Kleiman, Kris Kristensen, and Karin Williams. Color, 180 min. 2004.
+Excerpt from {{% resource_link "3b2a6e9d-83be-4d16-bdda-818f9938c3ed" "*The Meaning of Food*" %}}*.* Series directed by Maria Gargiulo, Vivian Kleiman, Kris Kristensen, and Karin Williams. Color, 180 min. 2004.
 
 {{< tdclose >}}{{< tdopen >}}
 Written Assignment 3: Food Memory due
@@ -157,9 +157,9 @@ Good food is *nutritional*
 
 *In-class viewing and discussion:*
 
-Excerpt from [*Frontline: Diet Wars*](https://www.pbs.org/wgbh/pages/frontline/shows/diet/). Directed by Jon Palfreman. Color, 60 min. 2004.
+Excerpt from {{% resource_link "ff8a7398-9d26-4696-a4c1-2ba91d4ae846" "*Frontline: Diet Wars*" %}}. Directed by Jon Palfreman. Color, 60 min. 2004.
 
-“[Eat the Butter](https://www.youtube.com/watch?v=PE_Ht576bN8).” YouTube.
+“{{% resource_link "2c7d2f7d-2961-492a-8459-97755a9068cd" "Eat the Butter" %}}.” YouTube.
 
 *Final Paper Proposal information distributed*
 
@@ -187,7 +187,7 @@ Revised final paper proposal due
 
 Good food is *medicinal*
 
-Guest lecture: [Alex Rewegan](http://web.mit.edu/hasts/graduate/rewegan.html), MIT-HASTS
+Guest lecture: {{% resource_link "f4dd6074-b018-4ad6-bcb1-041a0bc6ea86" "Alex Rewegan" %}}, MIT-HASTS
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -205,7 +205,7 @@ Good food is *just*
 
 *In-class viewing:*
 
-[*Food Forward, Ep. 8: Food (Justice) For All*](https://www.pbs.org/food/features/food-forward-season-1-food-justice-for-all/)*.* Directed by Greg Roden. Color, 24 min. (\*\*View the first story—Salinas, CA)
+{{% resource_link "1a42edf7-4e7f-4aaa-93f6-d427c56a7099" "*Food Forward, Ep. 8: Food (Justice) For All*" %}}*.* Directed by Greg Roden. Color, 24 min. (\*\*View the first story—Salinas, CA)
 
 *In-class tasting:* *Vermont cheese*
 
@@ -227,14 +227,14 @@ How good is the future of agriculture?
 
 *In-class viewing:*
 
-[*The Future of Food*](https://www.imdb.com/title/tt0427276/?ref_=fn_al_tt_1). Directed by Deborah Koons Garcia. Color, 88 mins. 2004.
+{{% resource_link "f78439ba-0d28-4ef2-af58-7eaf1ea7a2e9" "*The Future of Food*" %}}. Directed by Deborah Koons Garcia. Color, 88 mins. 2004.
 
 {{< tdclose >}}{{< tdopen >}}
 Final paper draft due 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
-Guest lecture: Andrea McClave, [MIT Integrated Design & Management](https://idm.mit.edu/), on developing an MIT food map app
+Guest lecture: Andrea McClave, {{% resource_link "4e26ca70-65e3-4f47-98f4-c02ded0b250e" "MIT Integrated Design & Management" %}}, on developing an MIT food map app
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
